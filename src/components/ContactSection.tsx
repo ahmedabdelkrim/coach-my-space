@@ -1,24 +1,18 @@
 import { motion } from "framer-motion";
-import { Phone, MessageCircle, Instagram, MapPin } from "lucide-react";
+import { Phone, MessageCircle, MapPin } from "lucide-react";
 
 const contactMethods = [
   {
     icon: Phone,
     label: "اتصل بيا",
-    value: "01xxxxxxxxx",
-    href: "tel:+201xxxxxxxxx",
+    value: "01012462298",
+    href: "tel:+201012462298",
   },
   {
     icon: MessageCircle,
     label: "واتساب",
     value: "ابعت رسالة",
-    href: "https://wa.me/201xxxxxxxxx",
-  },
-  {
-    icon: Instagram,
-    label: "انستجرام",
-    value: "@your_handle",
-    href: "https://instagram.com/your_handle",
+    href: "https://wa.me/201012462298",
   },
   {
     icon: MapPin,
@@ -81,7 +75,7 @@ const ContactSection = () => {
           className="mt-16 text-center"
         >
           <a
-            href="https://wa.me/201xxxxxxxxx"
+            href="https://wa.me/201012462298"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-gradient-fire text-primary-foreground font-bold text-xl px-12 py-5 rounded-xl shadow-fire animate-pulse-glow hover:scale-105 transition-transform duration-300"
