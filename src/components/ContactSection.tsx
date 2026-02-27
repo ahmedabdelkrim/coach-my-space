@@ -5,20 +5,14 @@ const contactMethods = [
   {
     icon: Phone,
     label: "اتصل بيا",
-    value: "01xxxxxxxxx",
-    href: "tel:+201xxxxxxxxx",
+    value: "01012462298",
+    href: "tel:+201012462298",
   },
   {
     icon: MessageCircle,
     label: "واتساب",
     value: "ابعت رسالة",
-    href: "https://wa.me/201xxxxxxxxx",
-  },
-  {
-    icon: Instagram,
-    label: "انستجرام",
-    value: "@your_handle",
-    href: "https://instagram.com/your_handle",
+    href: "https://wa.me/201012462298",
   },
   {
     icon: MapPin,
