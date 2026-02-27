@@ -75,7 +75,7 @@ const ContactSection = () => {
           className="mt-16 text-center"
         >
           <a
-            href="https://wa.me/201xxxxxxxxx"
+            href="https://wa.me/201012462298"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-block bg-gradient-fire text-primary-foreground font-bold text-xl px-12 py-5 rounded-xl shadow-fire animate-pulse-glow hover:scale-105 transition-transform duration-300"
